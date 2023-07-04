@@ -1,0 +1,5 @@
+# MA1508E Linear Algebra for Engineering
+
+The course is targeted at students from the Faculty of Engineering and it provides the basic fundamental principles of Linear Algebra relevant to the field of Engineering. Topics include: System of linear equations and their solutions. Gaussian elimination. Matrices, matrix operations and invertibility. Determinant of a matrix. Euclidean space and vectors. Subspaces, linear combinations and linear span. Linear independence, basis and coordinate vectors. Dimension of a vector space. Rank and nullity theorem for matrices. Linear approximation and least squares solution to a linear system. Orthogonal projection. Eigenvalues, eigenvectors and diagonalization. Complex numbers. Applications of eigenvalues and eigenvectors to differential equation
+
+https://nusmods.com/courses/MA1508E/linear-algebra-for-engineering
